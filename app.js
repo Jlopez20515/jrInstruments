@@ -1,3 +1,5 @@
-let test = "it Works!!!";
 
-console.log(test);
+// Mobile Nav-Bar hamburger effect
+  $(document).ready(function(){
+    $('.sidenav').sidenav();
+  });
