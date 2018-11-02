@@ -12,3 +12,7 @@
 //   var instance = M.Carousel.init({
 //     fullWidth: true
 //   });
+
+$(document).ready(function(){
+   $('.slider').slider();
+ });
